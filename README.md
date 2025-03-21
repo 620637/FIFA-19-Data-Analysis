@@ -2,7 +2,7 @@ FIFA 19 Data Analysis
 
 📌 Project Overview
 
-This project analyzes the FIFA 19 player dataset, exploring various statistics such as player age distribution, overall ratings, market value, nationality trends, and more. The analysis is performed using Python, leveraging libraries like Pandas, Seaborn, Matplotlib, and Plotly.
+This project analyzes the FIFA 19 player dataset, exploring various statistics such as player age distribution, overall ratings, market value, nationality trends, and more. The analysis is performed using Python, leveraging libraries like Pandas, Seaborn and Matplotlib.
 
 📂 Dataset
 
